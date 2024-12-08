@@ -1,0 +1,1 @@
+import "./app/dist/two-small-digits-product.js";
